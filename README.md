@@ -31,12 +31,12 @@
 
 <p>
   <img 
-    src="https://github-readme-stats-gamma-gray-38.vercel.app/api?username=junhyung-dev&show_icons=true&theme=radical&hide_border=true" 
+    src="https://github-readme-stats-gamma-gray-38.vercel.app/api?username=junhyung-dev&show_icons=true&theme=tokyonight&hide_border=true" 
     height="165"
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats-gamma-gray-38.vercel.app/api/top-langs/?username=junhyung-dev&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+    src="https://github-readme-stats-gamma-gray-38.vercel.app/api/top-langs/?username=junhyung-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
     height="165"
     alt="Most Used Languages"
   />
