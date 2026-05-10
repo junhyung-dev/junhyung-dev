@@ -38,14 +38,6 @@
 
   <h2>📋 Stat 📋</h2>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=junhyung-dev&show_icons=true&theme=radical&hide_border=true" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhyung-dev&layout=compact&theme=radical&hide_border=true&langs_count=8" 
-    height="170"
-  />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhyung-dev&show_icons=true&theme=radical)    
 
 </div>
