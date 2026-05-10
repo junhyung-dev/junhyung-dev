@@ -6,7 +6,7 @@
 
 ---
 
-## 💪 Skills
+### 💪 Skills
 
 <div>
   <img height="24" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -25,9 +25,9 @@
   <img height="24" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 </div>
 
-<br />
+---
 
-## 📋 Stats
+### 📋 Stats
 
 <p>
   <img 
