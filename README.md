@@ -39,7 +39,7 @@
   <h2>📋 Stat 📋</h2>
   
   <img 
-    src="https://github-readme-stats-git-master-junhyung-dev-s-projects.vercel.app/api?username=junhyung-dev&show_icons=true&theme=radical&hide_border=true" 
+    src="https://github-readme-stats-gamma-gray-38.vercel.app/api?username=junhyung-dev&show_icons=true&theme=radical&hide_border=true" 
     height="170"
   />  
 
