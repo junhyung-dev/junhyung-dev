@@ -1,43 +1,51 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Junhyung%27s%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<div class="header" align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BD93F9&text=Junhyung's%20GitHub&height=150&fontSize=60&descAlignY=75&descAlign=60" 
+    alt="Junhyung's GitHub"
+  />
+</div>
 
 <div align="center">
 
-<br />
+  <h2>📧 Email 📧</h2>
 
-## 🛠 Tech Stack
+  <p>
+    <strong>knujun0423@gmail.com</strong>
+  </p>
 
-### Backend
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
+  <br />
 
-### Frontend / App
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
+  <h2>✨ Tech Stack ✨</h2>
 
-### Language
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+    <br />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
+    <br />
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  </div>
 
-### Database / Infra
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+  <br />
 
-<br />
-<br />
+  <h2>📋 Stat 📋</h2>
 
-## 📊 GitHub Stats
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=junhyung-dev&show_icons=true&theme=radical&hide_border=true" 
+    height="170"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=redcontroller&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-
-<br />
-<br />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhyung-dev&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+    height="170"
+  />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
