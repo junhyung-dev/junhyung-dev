@@ -4,11 +4,9 @@
   <img src="https://img.shields.io/badge/knujun0423@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
-<div align="center">
+---
 
-<br />
-
-<h2>💪 Skills </h2>
+## 💪 Skills
 
 <div>
   <img height="26" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -29,7 +27,7 @@
 
 <br />
 
-<h2>📋 Stats </h2>
+## 📋 Stats
 
 <p>
   <img 
@@ -43,5 +41,3 @@
     alt="Most Used Languages"
   />
 </p>
-
-</div>
