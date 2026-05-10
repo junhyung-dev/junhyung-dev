@@ -1,6 +1,6 @@
 <div class="header" align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BD93F9&text=Junhyung's%20GitHub&height=150&fontSize=60&descAlignY=75&descAlign=60" 
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00D9FF&text=Junhyung's%20GitHub&height=150&fontSize=60&descAlignY=75&descAlign=60" 
     alt="Junhyung's GitHub"
   />
 </div>
