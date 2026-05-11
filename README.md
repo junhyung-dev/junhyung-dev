@@ -31,7 +31,7 @@
 
 <p>
   <img 
-    src="https://github-readme-stats-gamma-gray-38.vercel.app/api?username=junhyung-dev&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-gamma-gray-38.vercel.app/api?username=junhyung-dev&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues" 
     height="165"
     alt="GitHub Stats"
   />
